@@ -1,1 +1,0 @@
-Hotel resezarvation config repo
